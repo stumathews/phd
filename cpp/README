@@ -1,0 +1,21 @@
+PassiveHOst Detection PHD
+-------------------------
+
+Passive Host Detection is a application that is meant to capture packets from a designated network interface, in order to identify network devices on the network.
+
+It is a user space application at this point in time with the view to added especially a linux driver to bind to the network interface in the future.
+
+
+Why PHD?
+--------
+
+The aim of PHD is to provide a opensource alternative to comercially available alternaties like centennial's LANProbe.
+
+
+How Does PHD do this?
+---------------------
+
+Is this all that the project hopes to do?
+-----------------------------------------
+
+No, we intend once PHD is complete, to create a system that can rival software products like Centennial Discovery 
